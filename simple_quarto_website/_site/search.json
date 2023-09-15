@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a test website for 5000 lab 1.2"
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "About",
+    "section": "Introduction",
+    "text": "Introduction\nWe are a dedicated group of young professionals with a passion for data analysis, data science, and machine learning in Georgetown University.\n\nOur Mission\nOur mission is to _________. Here to explain project topic\n\n\nOur Team\nMeet the members of our dynamic team:\n\nNaomi Yamaguchi\nNaomi is a first year student with passion in finance data analysis and stock market.\n\n\nTeammate A\nExplain teammate A\n\n\nTeammate B\nExplain teammate B\n\n\nTeammate C\nExplain teammate C"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About",
+    "section": "Projects",
+    "text": "Projects\n\nStep 1: _________\nExplain what did we used on project step 1.\n\n\nStep 2: _________\nExplain what did we used on project step 2."
+  },
+  {
+    "objectID": "about.html#python-code-example",
+    "href": "about.html#python-code-example",
+    "title": "About",
+    "section": "Python Code Example",
+    "text": "Python Code Example\nWe generate a simple plot using Python and matplotlib to showcase our data visualization:\n\n\nimport matplotlib.pyplot as plt\n\nx=[1,2,3]\ny=[2,4,6]\n\nplt.figure(figsize=(8, 6))\nplt.plot(x, y, label=\"Simple Plot\", color=\"blue\")\nplt.title(\"Simple Plot for 5000\")\nplt.xlabel(\"X\") #depend on topic\nplt.ylabel(\"Y\") #depend on topic\nplt.legend()\nplt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html#this-is-an-example-of-quarto-website-for-dsan-5000-class",
+    "href": "index.html#this-is-an-example-of-quarto-website-for-dsan-5000-class",
+    "title": "simple_quarto_website",
+    "section": "0.1 This is an example of Quarto website for DSAN 5000 class",
+    "text": "0.1 This is an example of Quarto website for DSAN 5000 class\nTable of Contents\n\nAbout Me\nIntroduction\nTopic 1\nData Tables\nTopic 2\nTopic 3\nReference"
+  },
+  {
+    "objectID": "index.html#details-of-topic-2-part-1",
+    "href": "index.html#details-of-topic-2-part-1",
+    "title": "simple_quarto_website",
+    "section": "5.1 Details of Topic 2 part 1",
+    "text": "5.1 Details of Topic 2 part 1\nWrite sentence here."
+  },
+  {
+    "objectID": "index.html#details-of-topic-2-part-2",
+    "href": "index.html#details-of-topic-2-part-2",
+    "title": "simple_quarto_website",
+    "section": "5.2 Details of Topic 2 part 2",
+    "text": "5.2 Details of Topic 2 part 2\nWrite sentence here."
+  },
+  {
+    "objectID": "slides/slides.html#let-me-introduce-my-best-friends-i-made-in-covid-19",
+    "href": "slides/slides.html#let-me-introduce-my-best-friends-i-made-in-covid-19",
+    "title": "Naomi’s Slide",
+    "section": "Let me introduce my best friends I made in Covid-19",
+    "text": "Let me introduce my best friends I made in Covid-19\nI have three bestfriends in a house since 2020. They are dogs!! They are all super active, sweet, and fluffy. Consist of one husky mixed and two pure boxers (they are twin)."
+  },
+  {
+    "objectID": "slides/slides.html#dog-1---bear",
+    "href": "slides/slides.html#dog-1---bear",
+    "title": "Naomi’s Slide",
+    "section": "Dog 1 - Bear",
+    "text": "Dog 1 - Bear\n\nBearHe is the oldest and most lazist dog. He love to eat and sleep only, always want to steal your food!"
+  },
+  {
+    "objectID": "slides/slides.html#dog-2---mei",
+    "href": "slides/slides.html#dog-2---mei",
+    "title": "Naomi’s Slide",
+    "section": "Dog 2 - Mei",
+    "text": "Dog 2 - Mei\n\nMeiShe is a middle child and picky eater! She cry a lot when she don’t get an attention and she has an attitude like mean girl but also super playful."
+  },
+  {
+    "objectID": "slides/slides.html#quote-from-bib",
+    "href": "slides/slides.html#quote-from-bib",
+    "title": "Naomi’s Slide",
+    "section": "Quote from bib",
+    "text": "Quote from bib\n“We review and complement a general approach for Monte Carlo computations of conditional expectations given a sufficient statistic.” - Bo Henry Lindqvist and Gunnar Taraldsen (see Lindqvist and Taraldsen (2007))."
+  },
+  {
+    "objectID": "slides/slides.html#python-code-example",
+    "href": "slides/slides.html#python-code-example",
+    "title": "Naomi’s Slide",
+    "section": "Python Code Example",
+    "text": "Python Code Example\nWe are generating simple plot for testing.\n\n\n\n\n\n\n\nLindqvist, Bo Henry, and Gunnar Taraldsen. 2007. “Conditional Monte Carlo Based on Sufficient Statistics with Applications.” In Advances in Statistical Modeling and Inference: Essays in Honor of Kjell a Doksum, 545–61. World Scientific."
+  }
+]

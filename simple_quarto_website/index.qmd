@@ -1,0 +1,110 @@
+---
+title: "simple_quarto_website"
+toc: true
+number-sections: true
+bibliography: reference.bib
+---
+
+### Portfolio
+
+## This is an example of Quarto website for DSAN 5000 class
+
+**Table of Contents** 
+
+- [About Me](#content-section)
+- [Introduction](#introduction)
+- [Topic 1](#topic-1)
+- [Data Tables](#data-tables)
+- [Topic 2](#topic-2)
+- [Topic 3](#topic-3)
+- [Reference](#references)
+
+
+
+# About Me
+Hello! My name is Naomi Yamaguchi, and I am currently a first-year graduate student in the Data Science and Analytics (DSAN) Master's program at Georgetown University.
+
+![ ](photo.png){width=200px}
+
+
+I grew up in Maryland and studied undergraduate at Salisbury University where I majored with a B.S in Statistics and minored with Data Science. During my undergraduate, I was selected to be part of research project with computer science department and gained real world skills from several internships. After graduation, I spent my summer as a revenue management analyst intern at Georgetown before returning to school to join the world of data science.
+
+Outside of school and work, my hobbies include adventure, workout, playing with my dogs, window shopping, attending concert/festival, and exploring the DC with my friends. Thanks for checking out my portfolio! Here is little information about my dogs for fun fact.
+
+![Twin Dog 1](Mei.png){width=100px}
+![Twin Dog 2](Bear.png){width=100px}
+
+GU netID: ny159
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeWTheG58QM?si=U5q9ioiPNrEphtz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Introduction
+
+We are currently testing the website for personal portfolio styles. I will be conditional probability from 5100 information for now as a reference [^1].
+
+Bayes Theorem formula:
+
+$$
+P(A|B)=\frac{P(B|A) \cdot P(A)}{P(B)}
+$$ 
+
+is probability of event $A$ given the event $B$ for condition.
+
+# Topic 1
+- point 1
+- point 2
+- point 3
+
+# Data Tables
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
+
+# Topic 2
+1. sentence 1
+2. sentence 2
+3. sentence 3
+
+## Details of Topic 2 part 1
+Write sentence here.
+
+## Details of Topic 2 part 2
+Write sentence here.
+
+# Topic 3
+Example of flowchart and graph using mermaid.
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result 1]
+  C --> E[Result 2]
+```
+
+```{mermaid}
+graph TD;
+    A[Square Rect] --> B((Circle));
+    B --> C[Round Rect];
+    C --> A;
+```
+
+
+> "using conditional probability means being very careful to observe the conditions preceding an event you’d like to understand." - Shane Parrish,
+ 
+"A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics" (see @fritz2020synthetic)
+
+
+
+ ## References
+
+1. [A quote from The Great Mental Models] <https://www.goodreads.com/quotes/10752049-using-conditional-probability-means-being-very-careful-to-observe-the>
+2. [CONDITIONAL MONTE CARLO BASED ON SUFFICIENT STATISTICS WITH APPLICATIONS]<https://www.worldscientific.com/doi/abs/10.1142/9789812708298_0027>
+   
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
